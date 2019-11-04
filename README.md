@@ -1,5 +1,5 @@
 ﻿# Project 3 - Arrival
-영화 "Arrival" 홈페이지 제작
+영화 [Arrival] 홈페이지 제작
 
 PC 화면 최적화
 
